@@ -62,8 +62,3 @@ button{
         display: none;
     }
 }
-@media (max-width: 580px) {
-    ul{
-        display: none;
-    }
-}
